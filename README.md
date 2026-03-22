@@ -1,11 +1,5 @@
-# 🎁 احصل على سوار الدفع الذكي مجانا
-
-اضغط على الرابط للدخول 👇  
-
-👉 [اضغط هنا](https://your-wix-link.com)
-
----
-
-⚡ عرض محدود لفترة قصيرة  
-💳 يدعم جميع البنوك  
-📱 سهل الاستخدام
+<a href="https://your-wix-link.com" target="_blank">
+<button style="padding:10px 20px; font-size:18px; background:red; color:white; border:none; border-radius:8px;">
+اضغط هنا للدخول
+</button>
+</a>
