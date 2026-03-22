@@ -1,2 +1,24 @@
-<meta http-equiv="refresh" content="0; url=https://sds310839.wixstudio.com/website
-">
+<!DOCTYPE html>
+<html>
+<head>
+  <title>لوحة البيانات</title>
+</head>
+<body>
+
+<h2>بيانات المسجلين</h2>
+
+<table border="1">
+  <tr>
+    <th>الاسم</th>
+    <th>الهاتف</th>
+  </tr>
+
+  <tr>
+    <td>محمد</td>
+    <td>123456789</td>
+  </tr>
+
+</table>
+
+</body>
+</html>
